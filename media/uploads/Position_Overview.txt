@@ -1,0 +1,234 @@
+Data Scientist
+Position Overview
+
+We are seeking a motivated and skilled Mid-Level Data Scientist to join our team and help transform complex data into actionable insights. In this role, you will work on data-driven projects, develop predictive models, and contribute to building scalable data pipelines and infrastructures. If you are passionate about working with data and continuously expanding your skill set, we’d love to hear from you!
+
+Responsibilities:
+
+• Identify and source relevant data to address business needs.
+
+• Collect, process, and clean structured and unstructured data from various sources.
+
+• Build and maintain predictive models and machine learning algorithms to solve complex business challenges.
+
+• Enhance data collection processes to optimize data quality and usability.
+
+• Develop and optimize data pipelines, architectures, and datasets.
+
+• Perform exploratory data analysis to identify trends, patterns, and insights.
+
+• Generate visualizations and reports using Power BI or similar BI tools to communicate findings effectively.
+
+• Work with large datasets using Python and SQL for analysis and modeling.
+
+• Maintain and improve databases, ensuring data quality and accessibility.
+
+• Collaborate with cross-functional teams to implement data-driven solutions.
+
+Requirements:
+
+• Bachelor’s or Master’s degree in Computer Science, Mathematics, or a related technical field.
+
+• 3+ years of experience in data science or a related role.
+
+• Proficiency in Python and SQL for data analysis, modeling, and pipeline development.
+
+• Experience with Power BI or similar BI platforms for data visualization.
+
+• Hands-on experience analyzing large datasets and applying machine learning algorithms.
+
+• Strong understanding of data infrastructure and pipeline development.
+
+• Proven ability to process, cleanse, and verify data integrity.
+
+• A keen eye for identifying trends and generating actionable insights.
+
+• Strong interest in solving data management challenges and a commitment to continuous learning.
+
+• English level: B2 or higher for effective communication in a distributed team.
+
+Nice to Have:
+
+• Experience with cloud platforms (e.g., AWS, Azure, or Google Cloud).
+
+• Familiarity with advanced machine learning frameworks (e.g., TensorFlow, PyTorch, or
+
+Scikit-learn).
+
+• Knowledge of data governance practices.
+
+• Previous experience in building and optimizing databases or data warehouses.
+
+What We Offer:
+
+• A dynamic and supportive environment focused on personal and professional growth.
+
+• Opportunities to work on innovative projects and implement cutting-edge technologies.
+
+• Flexible working hours and a remote-friendly culture.
+
+• Access to training resources and tools to enhance your skills.
+====================================================================================================
+Data Scientist
+Чем нужно будет заниматься:
+
+
+Работа над широким спектром ML-задач по различным банковским продуктам:
+аппликацонный скоринг
+поведенческий скоринг
+оценка дохода клиента
+uplift-моделирование
+антифрод скоринг
+коллекшн скоринг
+PD / LGD / EAD моделирование
+2. Участие в полном цикле разработки вышеперечисленных ML моделей:
+
+коммуникация с бизнес-заказчиками (сбор требований, постановка задачи и формирование подхода к решению)
+сбор данных и генерация признаков
+разработка и валидация
+развертывание (деплоймент)
+мониторинг ML моделей и их калибровка
+3. Исследование доступных и новых источников данных с целью увеличения качества ML-моделей
+
+Необходимые навыки / требования:
+
+не менеe 1 года опыта разработки моделей машинного обучения
+знание ключевых алгоритмов машинного обучения: градиентный бустинг, логистическая регрессия, случайный лес
+высокий уровень владения Python и соответствующих библиотек CatBoost / XGBoost / LightGBM, statsmodels, scikit-learn, pandas, numpy, matplotlib, seaborn
+навыки работы с базами данных (SQL)
+опыт развертывания оффлайн и онлайн моделей (Airflow, FastAPI / Flask, Docker) будет большим преимуществом
+высшее образование в области технических / физико-математических наук
+Что мы предлагаем:
+
+График работы с 9:00 до 18:00, 5/2
+Выплата заработной платы дважды в месяц: аванс и основная зарплата
+Официальное оформление с первого рабочего дня по ТК РУз
+Ежегодный отпуск 21 календарный день согласно ТК РУз
+Возможность по работать в одном из крупнейших банков
+Принять участие в реализации нескольких интересных проектов
+====================================================================================================
+Data Scientist
+Вакансия: Data Scientist (Machine Learning Engineer)
+
+О проекте:
+Мы создаём инновационные решения в сфере машинного обучения, уделяя особое внимание обработке национального языка. Ваша работа над передовыми технологиями и обучением моделей поможет сформировать будущее! Если вы горите машинным обучением и хотите быть частью высокотехнологичного проекта, присоединяйтесь к нашей команде!
+
+Основные задачи:
+
+Разработка моделей машинного обучения для ASR (автоматическое распознавание и синтез речи).
+Обучение и дообучение больших языковых моделей (LLM).
+Анализ качества данных и создание качественных датасетов.
+Ведение документации и создание базы знаний по моделям.
+Проведение исследований, изучение новых подходов, внедрение инновационных идей.
+Оптимизация процессов компании, связанных с Data Science.
+Требования:
+
+Уверенное владение Python и SQL.
+Опыт работы с PyTorch, Pandas.
+Глубокое понимание технологий в области ASR (например, распознавание и генерация речи).
+Опыт работы в NLP / LLM.
+Умение готовить и анализировать данные для обучения моделей.
+Плюсом будет опыт самостоятельного дообучения больших языковых моделей.
+Условия работы:
+
+Формат работы: гибридный, удалённый или в офисе (на ваш выбор).
+Конкурентная заработная плата, обсуждается индивидуально.
+Performance review дважды в год с возможностью повышения.
+Бонусы: компенсация расходов на обучение, участие в конференциях, выплаты каждые 2 недели.
+Уютный офис в центре Ташкента.
+Вертикальный и горизонтальный рост, чтобы вы могли раскрыть свой потенциал!
+‍ Что нужно для успеха:
+
+Требования к опыту:
+
+Не менее 2 лет опыта в Data Science или Machine Learning.
+Высшее образование в области математики, информатики или смежной дисциплины.
+Владение русским, узбекским или английским языками на хорошем уровне.
+Soft skills:
+
+Умение работать в команде и находить общий язык с коллегами.
+Критическое мышление и готовность предлагать креативные идеи.
+Самоорганизованность и желание развиваться.
+Этапы отбора:
+
+HR-интервью.
+Техническое интервью.
+Финальное обсуждение условий и Offer Talk.
+✨ Готовы развиваться с нами? Присылайте резюме, и давайте строить будущее вместе!====================================================================================================
+Data Engineer
+Обязанности:
+
+Анализ требований к витринам данных (взаимодействие с Data Analysts, Data Scientists);
+
+Поиск и исследование источников данных для последующей интеграции с Data Lake;
+
+Разработка ETL/ELT процессов на PySpark;
+
+Разработка оркестрации ETL процессов в Airflow;
+
+Развитие инструментов контроля и поддержки качества данных (Data Quality);
+
+Проектирование структуры хранилищ данных (DWH, Data Lake);
+
+
+Требования:
+
+SQL для сложных и производительных запросов (CTE, оконные функции);
+
+Python для разработки ETL/ELT pipeline;
+
+Опыт работы c СУБД: MS SQL, ClickHouse, PostgreSQL;
+
+Опыт работы со стеком Big Data: HiveQL Hadoop, Apache AirFlow, Apache Spark, Apache Flink, Airbyte;
+
+Понимание концепции Data Vault хранилищ данных (DWH, Data Lake);
+
+Опыт написания сервисов взаимодействия с внешними источниками данных;
+
+Понимание построения системных интеграций;
+
+
+
+Условия:
+
+
+Официальное трудоустройство, согласно ТК;
+5ти дневная рабочая неделя;
+Гибкий график работы;
+Корпоративный английский;
+Корпоративный тренажерный зал.
+====================================================================================================
+Data Scientist Senior
+С чем предстоит работать:
+
+Разработка data-driven решений для различных подразделений внутри группы компаний.
+Внедрение и интеграция моделей машинного обучения в бизнес-процессы компании.
+Работа с DWH: поиск и создание признаков, разработка пайплайнов обработки данных.
+Что мы ожидаем от кандидата:
+
+Умение программировать на Python. Знание классического DS и ML стека: numpy, pandas, scikit-learn, catboost, xgboost, lightgbm.
+Уверенное знание SQL и реляционных баз данных. Написание сложных запросов.
+Знание статистики, умение формулировать и тестировать статистические гипотезы.
+Опыт разработки и внедрения моделей от начала и до конца, который привел к улучшению результатов для бизнес-заказчика.
+Будет плюсом:
+
+Опыт внедрения моделей в продакшн, знание Airflow и Docker.
+Опыт в глубоких нейронных сетях (DL).
+Опыт в финтехе, маркетинге
+Опыт разработки стратегий cross-sale, up-sale
+Опыт проведения A/B тестов
+Мы предлагаем:
+
+график работы: 5/2, 10:00-19:00;
+комфортабельный офис (рядом с Алайским базаром);
+тренинги и курсы профессионального и личностного роста;
+корпоративный английский;
+возможность работать в мультикультурной команде;
+медицинская страховка (после прохождения испытательного срока);
+испытательный срок длится 3 месяца и оплачивается полностью;
+конкурентная заработная плата (обсуждается индивидуально с кандидатом);
+тимбилдинги и спортивные активности;
+полезные и вкусные перекусы.
+https://1xebt.com/ru/line/esports
+ ETL-процесс
+Использование следующих принципов: ООП, DRY, KISS, SOLID, REST

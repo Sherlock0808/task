@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Загрузка файла</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            width: 50%;
+            margin: auto;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        input[type="file"] {
+            margin: 10px 0;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        .history-btn {
+            background-color: #28a745;
+        }
+        .history-btn:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        {% if messages %}
+        <div class="error-messages">
+            {% for message in messages %}
+            <p class="error">⚠ {{ message }}</p>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <h2>Загрузка текстового файла</h2>
+        <p>Загрузите текстовый файл, чтобы получить анализ 50 самых значимых слов на основе метода TF-IDF.</p>
+        <p>После загрузки вы сможете просмотреть результаты и вернуться к истории загруженных файлов.</p>
+
+        <form action="{% url 'checkout:upload_file' %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <input type="file" name="file" required>
+            <br>
+            <button type="submit" class="btn">Загрузить</button>
+        </form>
+
+        <a href="{% url 'checkout:file_history' %}" class="btn history-btn">История загрузок</a>
+    </div>
+</body>
+</html>
